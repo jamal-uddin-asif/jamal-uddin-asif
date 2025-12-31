@@ -8,6 +8,9 @@
 ## My current activities
 - 🌱 I am exploring Next.js and building server-side rendered projects.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jamal-uddin-asif%20)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jamal-uddin-asif%20" alt="GitHub Streak" /></a>
+
 ## About Me
 Hey, I am a Frontend Developer form Bangladesh.I specialize in React, Node.js, Express, and MongoDB, and I love building responsive, user-friendly web applications. I enjoy turning ideas into real projects. Always eager to learn, improve, and create solutions that make an impact.
 
