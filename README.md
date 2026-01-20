@@ -31,6 +31,6 @@ Hey, I am a Frontend Developer form Bangladesh.I specialize in React, Node.js, E
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamal-uddin-asif&show_icons=true&locale=en&layout=compact" alt="jamal-uddin-asif" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamal-uddin-asif&show_icons=true&locale=en" alt="jamal-uddin-asif" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamal-uddin-asif&label=Profile%20views&color=0e75b6&style=flat" alt="jamal-uddin-asif" /> </p>
