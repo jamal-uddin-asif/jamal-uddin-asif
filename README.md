@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jamal-uddin-asif/jamal-uddin-asif/blob/main/github_banner3.png" alt="Asif Banner" />
+  <img src="Navy Blue Geometric Technology LinkedIn Banner.jpg" alt="Asif Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Asif</h1>
