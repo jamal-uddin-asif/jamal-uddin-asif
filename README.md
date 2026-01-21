@@ -7,6 +7,7 @@
 
 ## My current activities
 - 🌱 I am exploring Next.js and building server-side rendered projects.
+- 🌱 I am also exploring TypeScript.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jamal-uddin-asif)](https://git.io/streak-stats)
 
