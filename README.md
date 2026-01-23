@@ -1,37 +1,76 @@
 <p align="center">
-  <img src="Navy Blue Geometric Technology LinkedIn Banner.jpg" alt="Asif Banner" />
+  <img src="https://raw.githubusercontent.com/jamal-uddin-asif/jamal-uddin-asif/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg" alt="Asif Banner" onerror="this.src='https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=Frontend%20Developer&fontSize=50'"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Asif</h1>
+  <h3> 🚀 Frontend Developer | Next.js & MERN Stack Enthusiast </h3>
+  <p align="center">
+    <a href="mailto:asifzehendmg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/asif-jamaluddin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.facebook.com/asifzehendmg" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  </p>
+</div>
 
-## My current activities
-- 🌱 I am exploring Next.js and building server-side rendered projects.
-- 🌱 I am also exploring TypeScript.
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jamal-uddin-asif)](https://git.io/streak-stats)
+### 🧑‍💻 About Me
+I am a dedicated **Frontend Developer** from Bangladesh. I specialize in building scalable web applications using **Next.js**, **React**, and the **MERN Stack**. I love turning complex problems into elegant, user-friendly solutions.
 
-## About Me
-Hey, I am a Frontend Developer form Bangladesh.I specialize in React, Node.js, Express, and MongoDB, and I love building responsive, user-friendly web applications. I enjoy turning ideas into real projects. Always eager to learn, improve, and create solutions that make an impact.
+- 🔭 I’m currently focused on **Next.js** server-side rendering and performance optimization.
+- 🌱 Mastering **TypeScript** for robust and type-safe development.
+- ⚡ Fun fact: I think I am funny (and my code usually works on the first try... mostly!).
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+---
 
+### 🛠️ Tech Stack & Tools
 
-- 📫 How to reach me **asifzehendmg@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/asif zehen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif zehen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asif zehen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asif zehen" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CD1?style=flat-square&logo=stripe&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamal-uddin-asif&show_icons=true&locale=en&layout=compact" alt="jamal-uddin-asif" /></p>
+### 📊 GitHub Statistics
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamal-uddin-asif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamal-uddin-asif&layout=compact&theme=tokyonight" alt="Top Langs" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <img width="100%" src="https://streak-stats.demolab.com?user=jamal-uddin-asif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamal-uddin-asif&label=Profile%20views&color=0e75b6&style=flat" alt="jamal-uddin-asif" /> </p>
+### 🤝 Connect with Me
+- 📧 Email: [asifzehendmg@gmail.com](mailto:asifzehendmg@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/asif-jamaluddin/](https://www.linkedin.com/in/asif-jamaluddin/)
+- 🌐 Portfolio: [my-portfolio-666.netlify.app](https://my-portfolio-666.netlify.app/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jamal-uddin-asif&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
