@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jamal-uddin-asif/jamal-uddin-asif/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg" alt="Asif Banner" onerror="this.src='https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=Frontend%20Developer&fontSize=50'"/>
+  <img src="https://raw.githubusercontent.com/jamal-uddin-asif/jamal-uddin-asif/main/full-stack-banner.jpg" alt="full stack Banner" onerror="this.src='https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=Frontend%20Developer&fontSize=50'"/>
 </p>
 
 <div align="center">
